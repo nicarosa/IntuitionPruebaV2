@@ -201,7 +201,6 @@ render(){
 
       
        <br/>
-       <Link to='/' className="onlyCenterText2">Editar y Retornar a Formulario</Link>
 
        <Button color="warning" onClick={this.updateQuestions}>Enviar</Button>
        </Form>
