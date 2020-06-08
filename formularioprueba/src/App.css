@@ -1,0 +1,68 @@
+#root {
+  min-height: 100vh;
+  background-color: white;
+}
+.onlyCenter{
+height: 100vh;
+background-color: dodgerblue;
+display: flex;
+}
+
+.formularioprueba{
+  
+  background-color: dodgerblue;
+  width: 100%;
+  max-width: 800px;
+  padding:15px;
+  margin: auto;
+  height: 100vh;
+  
+}
+
+.formularioWhite{
+  
+  background-color: white;
+  width: 100%;
+  max-width: 800px;
+  padding:15px;
+  margin: auto;
+  height: 100vh;
+  
+}
+
+
+.titulo{
+  font-weight: bold;
+  text-align: center;
+  color: white;
+}
+
+.onlyCenterText{
+  text-align: center;
+  color: white;
+}
+
+.colorLabel{
+  color: white;
+}
+
+.onlyCenterText2{
+  text-align: center;
+  font-weight: bold;
+  color: white;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.widen{
+  width: 100%;
+  max-width: 800px;
+  text-align: center;
+  align-content: center;
+}
+
+.alignCenter{
+  text-align: center;
+}
